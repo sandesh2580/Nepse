@@ -1,2 +1,2 @@
 # Nepse
-Nepse Data scraping and Notification for the certail LTP target hit
+Nepse Data scraping and Notification for the certain LTP target hit
